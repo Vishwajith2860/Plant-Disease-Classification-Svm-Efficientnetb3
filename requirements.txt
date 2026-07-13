@@ -1,0 +1,26 @@
+Dataset--PlantVillage Dataset
+
+GitHub Repository:
+https://github.com/spMohanty/PlantVillage-Dataset
+
+The dataset contains 54,305 images across 38 plant disease and healthy plant classes.
+
+
+Software Requirements
+
+Recommended Python Version:
+
+Python 3.10 or later
+
+Required Libraries:
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+opencv-python
+tensorflow
+keras
+jupyter
